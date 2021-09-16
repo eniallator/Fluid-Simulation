@@ -1,3 +1,3 @@
-# Web-Animation-Template
+# Fluid Simulation
 
-My template repository for creating web animations
+A fluid simulation written for the browser.
